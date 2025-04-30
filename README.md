@@ -43,8 +43,8 @@ C:\Users\yourname\test > touch file1.txt //-----> to make a file we use the comm
 File created: file1.txt  // **output**
 
 C:\Users\yourname\test > ls //-----> to list all the files and folders in the directory (test)
-[FILE]file1.txt // **output**
-**4️ ## הערות בקוד – מה כל שיטה עושה?**
+[FILE]file1.txt // **output**3#
+4️ הערות בקוד – מה כל שיטה עושה?
 
  **➤ MiniShell.java**
 
